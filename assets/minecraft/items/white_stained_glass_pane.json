@@ -16,6 +16,15 @@
           }
         }
       ],
+	  "cases": [
+        {
+          "when": "Emerald Beacon",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/white_chaos_emerald"
+          }
+        }
+      ],
       "fallback": {
         "type": "minecraft:model",
         "model": "minecraft:item/white_stained_glass_pane"
