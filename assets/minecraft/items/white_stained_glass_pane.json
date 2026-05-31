@@ -14,9 +14,7 @@
             "type": "minecraft:model",
             "model": "item/white_chaos_emerald"
           }
-        }
-      ],
-	  "cases": [
+        },
         {
           "when": "Emerald Beacon",
           "model": {
