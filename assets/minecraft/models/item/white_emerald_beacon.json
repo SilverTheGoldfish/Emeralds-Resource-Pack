@@ -24,8 +24,8 @@
 	"display": {
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -80],
-			"scale": [1, 4, 1]
+			"translation": [0, 0, -800],
+			"scale": [1, 40, 1]
 		}
 	}
 }
