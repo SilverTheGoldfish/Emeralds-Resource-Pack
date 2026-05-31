@@ -21,7 +21,7 @@
           "when": "Emerald Beacon",
           "model": {
             "type": "minecraft:model",
-            "model": "item/white_chaos_emerald"
+            "model": "item/white_emerald_beacon"
           }
         }
       ],
