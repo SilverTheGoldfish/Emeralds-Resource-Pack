@@ -1290,6 +1290,10 @@
 		"gui": {
 			"scale": [0.3, 0.3, 0.3]
 		},
+		"head": {
+			"translation": [0, 48.75, 0],
+			"scale": [4, 4, 4]
+		},
 		"fixed": {
 			"translation": [0, 45, -31.25],
 			"scale": [4, 4, 4]
@@ -1297,7 +1301,7 @@
 		"on_shelf": {
 			"rotation": [0, 180, 0],
 			"translation": [0, 0, 50],
-			"scale": [4, 4, 4]
+			"scale": [8, 8, 8]
 		}
 	},
 	"groups": [
